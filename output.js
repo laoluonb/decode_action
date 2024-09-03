@@ -1,4 +1,4 @@
-//Mon Sep 02 2024 23:30:09 GMT+0000 (Coordinated Universal Time)
+//Tue Sep 03 2024 00:22:58 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 console.log("=>=>=>=>____来自 By 幼稚园小妹妹 (顶级插件售后服务951584089)丨Autman订阅源:Lxg-021002丨期待为您服务<=<=<=<=");
